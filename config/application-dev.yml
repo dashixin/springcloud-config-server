@@ -1,1 +1,2 @@
-﻿远程dev
+server:
+  port: 9999
